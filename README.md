@@ -3,18 +3,18 @@
 
 # Gigs IRPF
 
-Planilha em Excel para juntar, de um jeito organizado e validado, tudo que você precisa na hora de declarar o Imposto de Renda. Sem macros, sem instalar nada: abriu, preencheu, pronto.
+Planilha em Excel para juntar de um jeito organizado, tudo que você precisa na hora de declarar o Imposto de Renda.
 
 ## O que ela faz
 
-- **Menu lateral fixo** (coluna A inteira) com a logo **Gigs IRPF** e 3 botões de navegação. Ele fica parado enquanto você mexe nas células.
+- **Menu lateral**
 - **Aba TITULAR**: seus dados pessoais com máscara automática de CPF, CEP `00000-000`, celular `(21) 90000-0000` e checagem de e-mail. Tem um mini formulário **Sim/Não** com lista suspensa.
 - **Aba INFORMES**: um informe de rendimento por linha. Escolha o tipo e a planilha descobre a **ficha do IRPF** onde ele entra. Dá pra filtrar por qualquer coluna, e o total acompanha o filtro.
 - **Aba GUIA & LINKS**: atalhos oficiais da Receita, contagem regressiva do prazo e checklist de documentos.
 
 ## Como usar
 
-1. Abra a aba **TITULAR** e preencha só as células **amarelas** (as 3 primeiras linhas de INFORMES e os dados do titular são exemplos fictícios: apague e use os seus).
+1. Abra a aba **TITULAR** e preencha só as células (as 3 primeiras linhas de INFORMES e os dados do titular são exemplos fictícios: apague e use os seus).
 2. Digite CPF, CEP, celular e CNPJ **só com números**: a máscara aparece sozinha.
 3. Em **INFORMES**, registre cada rendimento. A coluna **Status** avisa o que está faltando ou errado.
 4. Use o **checklist** da aba GUIA para não esquecer nenhum documento.
