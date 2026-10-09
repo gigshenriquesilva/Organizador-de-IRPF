@@ -28,7 +28,7 @@ Planilha em Excel para juntar de um jeito organizado, tudo que você precisa na 
 
 ## Funções usadas
 
-| Pedido | Onde aparece |
+| Funções | Onde aparece |
 |---|---|
 | `PROCV` | INFORMES busca a ficha e a tributação do tipo de rendimento na tabela da aba GUIA |
 | `DIREITA` | Exibe os 2 últimos dígitos do CPF (mascarado) e monta o mês da competência |
