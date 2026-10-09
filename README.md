@@ -1,8 +1,6 @@
 
 `Atividade prática de excel.`
 
-# Gigs IRPF
-
 Planilha em Excel para juntar de um jeito organizado, tudo que você precisa na hora de declarar o Imposto de Renda.
 
 ## O que ela faz
