@@ -43,5 +43,4 @@ Planilha em Excel para juntar de um jeito organizado, tudo que você precisa na 
 
 - Os dados e o prazo de entrega que vêm preenchidos são **exemplos**: confira a data no calendário oficial da Receita.
 - A tabela de tipos de rendimento (aba GUIA) é editável. Ela alimenta a lista suspensa e o `PROCV`.
-- É uma ferramenta de **organização**, não substitui o programa oficial da Receita nem orientação de contador.
-- Feito para Excel. Em outros programas o visual pode variar um pouco.
+- É uma ferramenta de **organização** e **prática de estudos**, não substitui o programa oficial da Receita nem orientação de contador.
